@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @druryyl
+- 👋 Hi, I’m @druryyl ![Drury Total Wakatime](https://wakatime.com/badge/user/04e26c2c-340b-4b27-bd77-cadf00d87ef2.svg)
 - 👀 I’m interested in Design Pattern, Optimizing Query.
 - 🌱 I’m currently learning C#, Java, Kotlin.
 - 💞️ I’m looking to collaborate on your mind.
@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=druryyl&layout=compact)
 
-![Drury Total Wakatime](https://wakatime.com/badge/user/04e26c2c-340b-4b27-bd77-cadf00d87ef2.svg)
+
