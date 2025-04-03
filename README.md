@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Drury's GitHub stats](https://github-readme-stats.vercel.app/api?username=druryyl&show_icons=true&theme=transparent)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jude7&layout=compact)
+![Drury's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jude7&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=druryyl&layout=compact)
+
+![Drury Total Wakatime](https://wakatime.com/badge/user/04e26c2c-340b-4b27-bd77-cadf00d87ef2.svg)
