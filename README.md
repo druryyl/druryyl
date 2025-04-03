@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @druryyl ![Drury Total Wakatime](https://wakatime.com/badge/user/04e26c2c-340b-4b27-bd77-cadf00d87ef2.svg)
+- 👋 Hi, I’m @druryyl
+- ![Drury Total Wakatime](https://wakatime.com/badge/user/04e26c2c-340b-4b27-bd77-cadf00d87ef2.svg)
 - 👀 I’m interested in Design Pattern, Optimizing Query.
 - 🌱 I’m currently learning C#, Java, Kotlin.
 - 💞️ I’m looking to collaborate on your mind.
