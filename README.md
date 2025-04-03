@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![Drury's GitHub stats](https://github-readme-stats.vercel.app/api?username=druryyl&show_icons=true&theme=shadow_red )
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jude7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=druryyl&layout=compact)
